@@ -1,0 +1,26 @@
+print("====================STUDENT RECORD SYSTEM=================\n")
+student1 = ("Krishna", 21, "AIML", 7.39)
+student2 = ("Rahul", 20, "CSE", 8.10)
+student3 = ("Aman", 22, "IT", 7.80)
+
+students = [student1, student2, student3]
+print("\nStudent 1\n)")
+print("Name:", student1[0])
+print("Age:", student1[1])
+print("Branch:", student1[2])
+print("CGPA:", student1[3])
+
+print("----------------------------------------------")
+print("\nStudent 2\n)")
+print("Name:", student2[0])
+print("Age:", student2[1])
+print("Branch:", student2[2])
+print("CGPA:", student2[3])
+
+print("----------------------------------------------")
+print("\nStudent 3\n)")
+print("Name:", student3[0])
+print("Age:", student3[1])
+print("Branch:", student3[2])
+print("CGPA:", student3[3])
+print("===============================================")
