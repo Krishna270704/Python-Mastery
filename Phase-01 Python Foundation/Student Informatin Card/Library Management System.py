@@ -56,8 +56,8 @@ while True:
         total_books()
 
     elif choice == "6":
-        print("👋 Thank You for Using Library Management System!")
+        print("Thank You for Using Library Management System!")
         break
 
     else:
-        print("❌ Invalid Choice! Please Try Again.\n")    
+        print(" Invalid Choice! Please Try Again.\n")    
